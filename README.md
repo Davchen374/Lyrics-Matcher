@@ -7,8 +7,9 @@
  
 <img width="1152" height="1254" alt="Screenshot 2025-09-13 150553" src="https://github.com/user-attachments/assets/d7182d8a-8c70-4c55-8252-13f58a033966" />
 
-### Project Structure
-```
-MUSIC-APP
- Lyrics-Backend      # Backend using Express and Node.js
-Src                 # Frontend with App.jsx and searchbar.jsx
+### Tech Stack
+# Frontned: React, Javascript, HTML, and Tailwind CSS.
+# Backend: Node.js, and Express.
+
+### Website
+# https://lyrics-matcher.netlify.app/
