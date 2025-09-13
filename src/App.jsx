@@ -36,9 +36,10 @@ function App() {
         <h2 className='mt-10'>{results.title}</h2>
         <h3>{results.artist}</h3>
         <img src={results.image} alt={`Album cover for ${results.title}`}/>
+        <br/>
         {results.url && (
             <p>
-              <a href={results.url} target="_blank" rel="noopener noreferrer" className='px-6 py-3 rounded-lg inline-block transition bg-blue-500 text-black'>
+              <a href={results.url} target="_blank" rel="noopener noreferrer" className='px-6 py-3 rounded-lg inline-block transition bg-blue-500 text-black '>
                 View Lyrics on Genius
               </a>
             </p>
