@@ -9,9 +9,9 @@
 
 
 ### Tech Stack
-# Frontend: React, Javascript, HTML, and Tailwind CSS.
-# Backend: Node.js, and Express.
+* Frontend: React, Javascript, HTML, and Tailwind CSS.
+* Backend: Node.js, and Express.
 
 
 ### Website
-# https://lyrics-matcher.netlify.app/
+* https://lyrics-matcher.netlify.app/
