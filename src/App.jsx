@@ -10,7 +10,7 @@ function App() {
     setError(null);
 
     try {
-      const response = await fetch(`http://localhost:5000/api/search?song=${encodeURIComponent(searchTerm)}`);
+      const response = await fetch(`https://lyrics-matcher.onrender.com/api/search?song=${encodeURIComponent(searchTerm)}`);
       if(!response.ok){
         throw new Error('No result found');
       }
